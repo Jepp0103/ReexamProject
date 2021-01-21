@@ -34,6 +34,6 @@
     "objection": "^2.2.2",
     "qs": "^6.9.4",
     "query-string": "^6.13.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
